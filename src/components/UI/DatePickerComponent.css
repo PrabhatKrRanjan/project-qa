@@ -1,0 +1,28 @@
+.date-input {
+  display: flex;
+  margin-bottom: 15px;
+}
+label {
+  width: 150px;
+}
+
+.date-button {
+  margin: 0 auto;
+  display: block;
+  padding: 7px 20px;
+  border-radius: 18.17px;
+  outline: none;
+  border-radius: 18.7px;
+  border: 2px solid #dcdcdc;
+  display: flex;
+  background-color: #ffffff;
+  justify-content: center;
+  align-items: center;
+  gap: 6px;
+  cursor: pointer;
+}
+
+.date-button:hover {
+  background-color: #e7e7e7;
+  border: 2px solid #e7e7e7;
+}

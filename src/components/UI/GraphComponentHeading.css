@@ -1,0 +1,33 @@
+.graph-comp-title {
+  font-size: 10px;
+  line-height: 15px;
+  font-weight: 600;
+  color: #9a9a9a;
+  vertical-align: middle;
+}
+
+.graph-comp-price {
+  font-size: 24px;
+  line-height: 36px;
+  font-weight: 600;
+  color: #000000;
+  vertical-align: middle;
+}
+
+.graph-comp-percent {
+  display: flex;
+  align-items: center;
+  gap: 3px;
+}
+
+.graph-comp-percent > span {
+  font-size: 10px;
+  line-height: 12px;
+  font-weight: 500;
+  color: #11ac6a;
+}
+
+.graph-comp-percent > image {
+  width: 8px;
+  height: 8px;
+}

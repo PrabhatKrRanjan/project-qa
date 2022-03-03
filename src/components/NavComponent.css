@@ -1,0 +1,44 @@
+.background-header {
+  display: flex;
+  padding: 36px 22px;
+  color: white;
+}
+
+.background-header__title {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 18px;
+  line-height: 23px;
+  font-weight: 600;
+  margin: auto;
+}
+
+.sub-header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: auto;
+  width: 193px;
+  height: 51px;
+  color: white;
+}
+
+.sub-header__image {
+  height: 51px;
+  border-radius: 50%;
+}
+
+.sub-header__title {
+  font-size: 14px;
+  line-height: 22px;
+  font-weight: 600;
+  color: white;
+}
+
+.sub-header__info {
+  font-size: 8.53px;
+  line-height: 13px;
+  font-weight: 500;
+  color: #f2f3f7;
+}
