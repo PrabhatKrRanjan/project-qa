@@ -4,7 +4,7 @@ This project fetch data from api and populate data in grap. There are three grap
 
 ### Demo Link
 
-[Click Here](https://affectionate-bose-26b962.netlify.com/) to view it in the browser.
+[Click Here](https://keen-kowalevski-eebc1b.netlify.app/) to view it in the browser.
 
 ## Installation
 - Clone the repo in your terminal by clicking the _green_ clone or download button at the top right and copyin the url
