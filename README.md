@@ -1,6 +1,6 @@
 ## Description
 
-This project fetch data from api and populate data in grap. There are three graph is shown in ui. It also have funtionality to change data and fetch data.
+This project fetches data from API and populates data in the graph. There are three graphs shown in the UI. It also has the functionality to change dates to fetch data.
 
 ### Demo Link
 
